@@ -1,0 +1,41 @@
+Project package install Command
+1. npm init
+2. npm install express mongoose body-parser --save
+3. npm i -g nodemon
+4. npm 
+
+Addon Module
+1. nodemon
+    1-1. npm install nodemon --save
+
+2. winston (Log Save)
+    2-1. npm install winston --save
+    2-2. npm install winston-daily-rotate-file --save
+    
+3. SQLite (DB)
+    3-1. npm install sqlite3 --save
+
+4. Helmet (Secure http status code)
+    4-1. npm install helmet --save
+
+5. Morgan (Log Save)
+    5-1. npm install morgan --save
+
+6. Config (configure Express)
+    6-1. npm install config
+
+7. Snyk (Vulnerability Checker)
+    7-1. npm install snyk --save
+
+
+
+─────────── Server Managed ───────────
+1. Install Addon new package
+    1-1. npm install [package-name] --save
+
+2. Update package
+    2-1. npm update
+
+3. Vulnerability Check
+    3-1. snyk test
+    3-1. snyk wizard

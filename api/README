@@ -1,0 +1,8 @@
+API Format
+
+{
+    "Start":"Start",   <-- API Start Point
+    "000":"0.0.0^Name00^^Sign00^^^Path00",  <-- Number : "Version^Name^^Signature^^^Path
+    "001":"0.0.1^Name01^^Sign01^^^Path01"   <-- Number : "Version^Name^^Signature^^^Path
+    "End":"end"        <-- API End Point
+}

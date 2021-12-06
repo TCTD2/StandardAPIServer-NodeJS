@@ -1,0 +1,12 @@
+How to use it?
+01. run wacs.exe as administrator
+02. Choose M (Full-Option)
+03. Choose 2 (Manual Input)
+04. input tctd.duckdns.org
+05. Enter (agress license)
+06. Choose 1
+07. Input Path C:\tctd2Server\API\gameAPI\
+08. Input n (web.config validation)
+09. Choose 2 (RSA key)
+10. Choose 5
+11. Choose 4
